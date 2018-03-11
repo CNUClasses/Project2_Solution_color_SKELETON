@@ -1,0 +1,4 @@
+#Sun Mar 11 17:04:29 EDT 2018
+base.0=/home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/build/intermediates/transforms/dexMerger/debug/11
+path.0=classes.dex
+renamed.0=classes.dex
