@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
+            "outputFile": "/home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/build/intermediates/incremental/mergeDebugResources/merged.dir/values-hdpi-v4/values-hdpi-v4.xml",
             "map": [
                 {
-                    "source": "/home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/res/values-hdpi-v4/values-hdpi-v4.xml",
+                    "source": "/home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/686849e640a0eb1f0c48526387ce7ee1/res/values-hdpi-v4/values-hdpi-v4.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",

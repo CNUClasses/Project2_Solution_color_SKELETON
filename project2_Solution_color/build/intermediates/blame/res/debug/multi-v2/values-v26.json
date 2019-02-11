@@ -1,10 +1,10 @@
 {
     "logs": [
         {
-            "outputFile": "/home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
+            "outputFile": "/home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/build/intermediates/incremental/mergeDebugResources/merged.dir/values-v26/values-v26.xml",
             "map": [
                 {
-                    "source": "/home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/res/values-v26/values-v26.xml",
+                    "source": "/home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/686849e640a0eb1f0c48526387ce7ee1/res/values-v26/values-v26.xml",
                     "from": {
                         "startLines": "2,3,4,8,12,16",
                         "startColumns": "4,4,4,4,4,4",

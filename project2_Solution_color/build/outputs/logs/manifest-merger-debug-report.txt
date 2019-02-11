@@ -1,157 +1,179 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
-MERGED from [com.android.support:appcompat-v7:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/AndroidManifest.xml:17:1-31:12
-MERGED from [:bitmap_utilities] /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/bitmap_utilities/build/intermediates/manifests/full/debug/AndroidManifest.xml:2:1-18:12
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/0d51db460d6c6a7f8dc95aeb5bac2c69/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d01eaa822a0e28bbdce282a19e5a5198/AndroidManifest.xml:17:1-28:12
-MERGED from [com.android.support:support-v4:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/700e47bc7f47c5bb4240df2e763ea037/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-media-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/b5a29bf4ec10383d91d013cd43504f14/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-fragment:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/baf9dd9c889ea33d658ef15926bc2ba6/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-utils:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/b83b2a581ad27d881e7198f1dcbb7083/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-core-ui:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/eb6c756d9866ecd13c8402a47aa1e46e/AndroidManifest.xml:17:1-31:12
-MERGED from [com.android.support:support-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/b317b1b675d41403e6144234f93d8e71/AndroidManifest.xml:17:1-31:12
-INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
-INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-41:12
+ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-33:12
+MERGED from [:bitmap_utilities] /home/keith/jnk/Project2_Solution_color_SKELETON/bitmap_utilities/build/intermediates/library_manifest/debug/AndroidManifest.xml:2:1-18:12
+MERGED from [com.android.support:design:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f9b8eea4e691e6530b71f45752bb9137/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/686849e640a0eb1f0c48526387ce7ee1/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/keith/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ff156f098f5c367263a8a0020f800da9/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e1a83e7f8ccc030681dddcae9c15daef/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ed4b7fa9612e133b68fb2ad68ad4e4e8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/12412b45e2dccd4cb19a788f521b3596/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5fe61dfb9a29c2084688b528fb276ebf/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/eba3e86cedde35be30fcb7b2fdd5611a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b4fd1f7c8ff1ab9016569e9f94800f05/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/e592e9ac5ff68285cda1d6c99fe277f4/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9169ce5841e4f06d8e76ffaad8d5aa11/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/30de8818363f1504fdac1e60b29c3c5d/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fd553703cccdb1facf9f4feaf1773842/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/112790883cfd872dcbf2585aaace9e46/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c9186933289cca7d48fb04bd727722b5/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f59072f344de6faf4e98d8fc21ddf4c0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d38cedd11d71d4bf09519f6f32b7cce8/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d89e62b4a06e0da4ae8fa1b34031fbcd/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8760a029ebb18da7dc46156e09d039c9/AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/45d39bb61d5b0130a5bc44ab7b26ceff/AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8c2c831a651ede618566a6ef076d9c6c/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/58789739093168a043ae27017202bc26/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0eae9c0d9e46544be7dbaf57b0f88bb0/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2e2ba94c3214ab72c053090d3f8cfe0a/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fd744d70808ed99d20418dabc55d8abe/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fb35dc27a256598e3f0d201bcdb239b3/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6cb09c25eb6190521115e38982a2d067/AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/93148421aaa85e5918bcbb5deb6d37b5/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5239010db8f7e61f1e2b3cea07ffcf98/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2b029af68382523bb2f4ce29b0e3e722/AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f97636515cb22808d5ef593a4cee0715/AndroidManifest.xml:17:1-22:12
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-33:12
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:1-33:12
 	package
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:3:5-41
-		INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
-		INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:3:5-41
+		INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+		INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
 	android:versionName
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:5:5-30
-		INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
-		INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:5:5-30
+		INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+		INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
 	xmlns:android
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:11-69
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:2:11-69
 	android:versionCode
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:4:5-28
-		INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
-		INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
-uses-sdk
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:7:5-9:41
-INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:7:5-9:41
-INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:appcompat-v7:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/AndroidManifest.xml:21:5-23:78
-MERGED from [com.android.support:appcompat-v7:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/AndroidManifest.xml:21:5-23:78
-MERGED from [:bitmap_utilities] /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/bitmap_utilities/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [:bitmap_utilities] /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/bitmap_utilities/build/intermediates/manifests/full/debug/AndroidManifest.xml:7:5-9:41
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/0d51db460d6c6a7f8dc95aeb5bac2c69/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/0d51db460d6c6a7f8dc95aeb5bac2c69/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d01eaa822a0e28bbdce282a19e5a5198/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d01eaa822a0e28bbdce282a19e5a5198/AndroidManifest.xml:20:5-44
-MERGED from [com.android.support:support-v4:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/700e47bc7f47c5bb4240df2e763ea037/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-v4:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/700e47bc7f47c5bb4240df2e763ea037/AndroidManifest.xml:21:5-23:54
-MERGED from [com.android.support:support-media-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/b5a29bf4ec10383d91d013cd43504f14/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-media-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/b5a29bf4ec10383d91d013cd43504f14/AndroidManifest.xml:21:5-23:63
-MERGED from [com.android.support:support-fragment:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/baf9dd9c889ea33d658ef15926bc2ba6/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-fragment:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/baf9dd9c889ea33d658ef15926bc2ba6/AndroidManifest.xml:21:5-23:60
-MERGED from [com.android.support:support-core-utils:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/b83b2a581ad27d881e7198f1dcbb7083/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-utils:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/b83b2a581ad27d881e7198f1dcbb7083/AndroidManifest.xml:21:5-23:61
-MERGED from [com.android.support:support-core-ui:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/eb6c756d9866ecd13c8402a47aa1e46e/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-core-ui:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/eb6c756d9866ecd13c8402a47aa1e46e/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/b317b1b675d41403e6144234f93d8e71/AndroidManifest.xml:21:5-23:58
-MERGED from [com.android.support:support-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/b317b1b675d41403e6144234f93d8e71/AndroidManifest.xml:21:5-23:58
-INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:7:5-9:41
-INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:7:5-9:41
-	tools:overrideLibrary
-		ADDED from [com.android.support:appcompat-v7:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/AndroidManifest.xml:23:9-75
-	android:targetSdkVersion
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:9:9-38
-		INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
-		INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
-	android:minSdkVersion
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:8:9-35
-		INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
-		INJECTED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
-uses-permission#android.permission.CAMERA
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:11:5-65
-	android:name
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:11:22-62
-uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:12:5-81
-	android:name
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:12:22-78
-uses-permission#android.permission.READ_EXTERNAL_STORAGE
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:13:5-80
-	android:name
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:13:22-77
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:4:5-28
+		INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+		INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
 application
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:15:5-39:19
-MERGED from [com.android.support:appcompat-v7:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:appcompat-v7:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/AndroidManifest.xml:25:5-29:19
-MERGED from [:bitmap_utilities] /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/bitmap_utilities/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-16:19
-MERGED from [:bitmap_utilities] /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/bitmap_utilities/build/intermediates/manifests/full/debug/AndroidManifest.xml:11:5-16:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/0d51db460d6c6a7f8dc95aeb5bac2c69/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/0d51db460d6c6a7f8dc95aeb5bac2c69/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d01eaa822a0e28bbdce282a19e5a5198/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d01eaa822a0e28bbdce282a19e5a5198/AndroidManifest.xml:22:5-26:19
-MERGED from [com.android.support:support-v4:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/700e47bc7f47c5bb4240df2e763ea037/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-v4:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/700e47bc7f47c5bb4240df2e763ea037/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/b5a29bf4ec10383d91d013cd43504f14/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-media-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/b5a29bf4ec10383d91d013cd43504f14/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/baf9dd9c889ea33d658ef15926bc2ba6/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-fragment:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/baf9dd9c889ea33d658ef15926bc2ba6/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/b83b2a581ad27d881e7198f1dcbb7083/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-utils:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/b83b2a581ad27d881e7198f1dcbb7083/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/eb6c756d9866ecd13c8402a47aa1e46e/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-core-ui:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/eb6c756d9866ecd13c8402a47aa1e46e/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/b317b1b675d41403e6144234f93d8e71/AndroidManifest.xml:25:5-29:19
-MERGED from [com.android.support:support-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/b317b1b675d41403e6144234f93d8e71/AndroidManifest.xml:25:5-29:19
+ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:7:5-31:19
+MERGED from [:bitmap_utilities] /home/keith/jnk/Project2_Solution_color_SKELETON/bitmap_utilities/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-16:19
+MERGED from [:bitmap_utilities] /home/keith/jnk/Project2_Solution_color_SKELETON/bitmap_utilities/build/intermediates/library_manifest/debug/AndroidManifest.xml:11:5-16:19
+MERGED from [com.android.support:design:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f9b8eea4e691e6530b71f45752bb9137/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f9b8eea4e691e6530b71f45752bb9137/AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/keith/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ff156f098f5c367263a8a0020f800da9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/keith/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ff156f098f5c367263a8a0020f800da9/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8760a029ebb18da7dc46156e09d039c9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8760a029ebb18da7dc46156e09d039c9/AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/45d39bb61d5b0130a5bc44ab7b26ceff/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/45d39bb61d5b0130a5bc44ab7b26ceff/AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8760a029ebb18da7dc46156e09d039c9/AndroidManifest.xml:22:18-91
 	android:label
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:18:9-41
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:10:9-41
 	android:icon
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:17:9-45
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:9:9-45
 	android:allowBackup
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:16:9-35
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:8:9-35
 	android:theme
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:19:9-40
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:11:9-40
 activity#com.example.solution_color.SettingsActivity
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:20:9-54
+ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:12:9-54
 	android:name
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:20:19-51
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:12:19-51
 activity#com.example.solution_color.MainActivity
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:21:9-37:20
+ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:13:9-29:20
 	android:screenOrientation
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:25:13-49
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:17:13-49
 	android:label
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:24:13-45
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:16:13-45
 	android:configChanges
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:23:13-63
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:15:13-63
 	android:name
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:22:13-41
-intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:32:13-36:29
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:14:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:24:13-28:29
 action#android.intent.action.MAIN
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:33:17-69
+ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:25:17-69
 	android:name
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:33:25-66
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:25:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:35:17-77
+ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:27:17-77
 	android:name
-		ADDED from /home/keith/CPSC475_examples/NOT_PUBLIC/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:35:27-74
-meta-data#android.support.VERSION
-ADDED from [com.android.support:appcompat-v7:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/0d51db460d6c6a7f8dc95aeb5bac2c69/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:animated-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-26.0.0.aar/0d51db460d6c6a7f8dc95aeb5bac2c69/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d01eaa822a0e28bbdce282a19e5a5198/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-vector-drawable:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-26.0.0.aar/d01eaa822a0e28bbdce282a19e5a5198/AndroidManifest.xml:23:9-25:38
-MERGED from [com.android.support:support-v4:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/700e47bc7f47c5bb4240df2e763ea037/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-v4:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-v4-26.0.0.aar/700e47bc7f47c5bb4240df2e763ea037/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/b5a29bf4ec10383d91d013cd43504f14/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-media-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-media-compat-26.0.0.aar/b5a29bf4ec10383d91d013cd43504f14/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/baf9dd9c889ea33d658ef15926bc2ba6/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-fragment:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-fragment-26.0.0.aar/baf9dd9c889ea33d658ef15926bc2ba6/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/b83b2a581ad27d881e7198f1dcbb7083/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-utils:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-utils-26.0.0.aar/b83b2a581ad27d881e7198f1dcbb7083/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/eb6c756d9866ecd13c8402a47aa1e46e/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-core-ui:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-ui-26.0.0.aar/eb6c756d9866ecd13c8402a47aa1e46e/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/b317b1b675d41403e6144234f93d8e71/AndroidManifest.xml:26:9-28:38
-MERGED from [com.android.support:support-compat:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-26.0.0.aar/b317b1b675d41403e6144234f93d8e71/AndroidManifest.xml:26:9-28:38
-	android:value
-		ADDED from [com.android.support:appcompat-v7:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/AndroidManifest.xml:28:13-35
-	android:name
-		ADDED from [com.android.support:appcompat-v7:26.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-26.0.0.aar/d7a93457d19abb76da6ca5fe8063bf34/AndroidManifest.xml:27:13-51
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml:27:27-74
+uses-sdk
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+MERGED from [:bitmap_utilities] /home/keith/jnk/Project2_Solution_color_SKELETON/bitmap_utilities/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [:bitmap_utilities] /home/keith/jnk/Project2_Solution_color_SKELETON/bitmap_utilities/build/intermediates/library_manifest/debug/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f9b8eea4e691e6530b71f45752bb9137/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/design-28.0.0.aar/f9b8eea4e691e6530b71f45752bb9137/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/686849e640a0eb1f0c48526387ce7ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/appcompat-v7-28.0.0.aar/686849e640a0eb1f0c48526387ce7ee1/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/keith/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ff156f098f5c367263a8a0020f800da9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] /home/keith/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.1.3.aar/ff156f098f5c367263a8a0020f800da9/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e1a83e7f8ccc030681dddcae9c15daef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-fragment-28.0.0.aar/e1a83e7f8ccc030681dddcae9c15daef/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ed4b7fa9612e133b68fb2ad68ad4e4e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-28.0.0.aar/ed4b7fa9612e133b68fb2ad68ad4e4e8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/12412b45e2dccd4cb19a788f521b3596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-28.0.0.aar/12412b45e2dccd4cb19a788f521b3596/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5fe61dfb9a29c2084688b528fb276ebf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-ui-28.0.0.aar/5fe61dfb9a29c2084688b528fb276ebf/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/eba3e86cedde35be30fcb7b2fdd5611a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-core-utils-28.0.0.aar/eba3e86cedde35be30fcb7b2fdd5611a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b4fd1f7c8ff1ab9016569e9f94800f05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-28.0.0.aar/b4fd1f7c8ff1ab9016569e9f94800f05/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/e592e9ac5ff68285cda1d6c99fe277f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/transition-28.0.0.aar/e592e9ac5ff68285cda1d6c99fe277f4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9169ce5841e4f06d8e76ffaad8d5aa11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/loader-28.0.0.aar/9169ce5841e4f06d8e76ffaad8d5aa11/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/30de8818363f1504fdac1e60b29c3c5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/viewpager-28.0.0.aar/30de8818363f1504fdac1e60b29c3c5d/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fd553703cccdb1facf9f4feaf1773842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/coordinatorlayout-28.0.0.aar/fd553703cccdb1facf9f4feaf1773842/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/112790883cfd872dcbf2585aaace9e46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/drawerlayout-28.0.0.aar/112790883cfd872dcbf2585aaace9e46/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c9186933289cca7d48fb04bd727722b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/slidingpanelayout-28.0.0.aar/c9186933289cca7d48fb04bd727722b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f59072f344de6faf4e98d8fc21ddf4c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/customview-28.0.0.aar/f59072f344de6faf4e98d8fc21ddf4c0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d38cedd11d71d4bf09519f6f32b7cce8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/swiperefreshlayout-28.0.0.aar/d38cedd11d71d4bf09519f6f32b7cce8/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d89e62b4a06e0da4ae8fa1b34031fbcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/asynclayoutinflater-28.0.0.aar/d89e62b4a06e0da4ae8fa1b34031fbcd/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8760a029ebb18da7dc46156e09d039c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/support-compat-28.0.0.aar/8760a029ebb18da7dc46156e09d039c9/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/45d39bb61d5b0130a5bc44ab7b26ceff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/versionedparcelable-28.0.0.aar/45d39bb61d5b0130a5bc44ab7b26ceff/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8c2c831a651ede618566a6ef076d9c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/cursoradapter-28.0.0.aar/8c2c831a651ede618566a6ef076d9c6c/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/58789739093168a043ae27017202bc26/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/cardview-v7-28.0.0.aar/58789739093168a043ae27017202bc26/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0eae9c0d9e46544be7dbaf57b0f88bb0/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/0eae9c0d9e46544be7dbaf57b0f88bb0/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2e2ba94c3214ab72c053090d3f8cfe0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/documentfile-28.0.0.aar/2e2ba94c3214ab72c053090d3f8cfe0a/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fd744d70808ed99d20418dabc55d8abe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/localbroadcastmanager-28.0.0.aar/fd744d70808ed99d20418dabc55d8abe/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fb35dc27a256598e3f0d201bcdb239b3/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/print-28.0.0.aar/fb35dc27a256598e3f0d201bcdb239b3/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6cb09c25eb6190521115e38982a2d067/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/viewmodel-1.1.1.aar/6cb09c25eb6190521115e38982a2d067/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/93148421aaa85e5918bcbb5deb6d37b5/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] /home/keith/.gradle/caches/transforms-1/files-1.1/interpolator-28.0.0.aar/93148421aaa85e5918bcbb5deb6d37b5/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5239010db8f7e61f1e2b3cea07ffcf98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/livedata-1.1.1.aar/5239010db8f7e61f1e2b3cea07ffcf98/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2b029af68382523bb2f4ce29b0e3e722/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/livedata-core-1.1.1.aar/2b029af68382523bb2f4ce29b0e3e722/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f97636515cb22808d5ef593a4cee0715/AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] /home/keith/.gradle/caches/transforms-1/files-1.1/runtime-1.1.1.aar/f97636515cb22808d5ef593a4cee0715/AndroidManifest.xml:20:5-44
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+		INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+		ADDED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
+		INJECTED from /home/keith/jnk/Project2_Solution_color_SKELETON/project2_Solution_color/src/main/AndroidManifest.xml
