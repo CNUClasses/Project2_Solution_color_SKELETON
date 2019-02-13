@@ -21,6 +21,7 @@ public class Camera_Helpers {
     private static final float ROTATE_90_DEGREES = 90;
     private static final int FIRST_PIX_X = 0;
     private static final int FIRST_PIX_Y = 0;
+	private static final String TAG = "Camera_Helpers";
 
     /**
 	   The caller references the Camera_Helpers using <tt>Camera_Helpers.func()</tt>,
@@ -155,5 +156,16 @@ public class Camera_Helpers {
         }
         return true;
     }
+
+	public static boolean  delSavedImage(String imagePath){
+		boolean bRet = false;
+		try{
+			File file = new File(imagePath);
+			bRet =  file.delete();
+		}catch(NullPointerException e) {
+			Log.d(TAG, "delSavedImage: Please pass in a path string");
+		}
+		return bRet;
+	}
  
 }
